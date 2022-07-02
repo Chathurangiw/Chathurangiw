@@ -2,7 +2,7 @@
 
 
 
-                                        <b> I am undergraduate student of Computer Science in Nsbm Green University</b>
+                                         I am undergraduate student of Computer Science in Nsbm Green University.
                                          
                                          
 <!--
