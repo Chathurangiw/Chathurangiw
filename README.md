@@ -1,11 +1,9 @@
 ### Hi ....I'm Chathurangi 👋
 
+
+
+I am undergraduate student of Computer Science in Nsbm Green University
 <!--
-**Chathurangiw/Chathurangiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I am undergraduate student of Computer Science in Nsbm Green University
 - 🌱 I’m currently learning Java, Web Development. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
