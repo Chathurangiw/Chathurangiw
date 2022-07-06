@@ -1,10 +1,9 @@
 ###                                                          Hi...I'm Chathurangi 👋
-About me.......
+      
+                About me.......
 
-
-
-                                         I am undergraduate student of Computer Science in Nsbm Green University.
-                                         
+                       I am undergraduate student of Computer Science in Nsbm Green University.
+                       I’m currently learning Java, Web Development.                   
                                          
 <!--
 - 🌱 I’m currently learning Java, Web Development. 
