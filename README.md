@@ -1,4 +1,4 @@
-###   <h1 align="center">Hi I am Chathurangi Wijemanna.. 👋</h1>                                                      
+###   <h1 align="center">Hi.. I am Chathurangi Wijemanna.👋</h1>                                                      
 <b><h2> About me.......</b></h2>
 
        - 🏫 I am undergraduate student of Computer Science at Nsbm Green University.
