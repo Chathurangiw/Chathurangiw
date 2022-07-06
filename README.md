@@ -7,5 +7,5 @@
        - 😄 Pronouns: She/Her
        - ⚡ Fun fact: I spend watching Tv series in my leisure time.
 
-       ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChathurangiWijemanna&theme=radical)
+       ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChathurangiW&theme=radical)
 
