@@ -3,7 +3,7 @@
 
        - 🏫 I am undergraduate student of Computer Science at Nsbm Green University.
        - 🌱 I’m currently learning Html,CSS,Java Script, Java, Web Development. 
-       -📫 I'm currently working on my project.
+       - 📫 I'm currently working on my project.
        - 😄 Pronouns: She/Her
        - ⚡ Fun fact: I spend watching Tv series in my leisure time.
 
