@@ -2,13 +2,13 @@
 <b><h2> About me.......</b></h2>
 <img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/OIP.qn4GeVm325mSFvd-zp4F4AHaHa?pid=ImgDet&rs=1">
 <hr>
-<h3><b>
+<h4><b>
        - 🏫 I am undergraduate student of Computer Science at Nsbm Green University.<br>
        - 🌱 I’m currently learning Html,CSS,Java Script, Java, Web Development. <br>
        - 📫 I'm currently working on my project.<br>
        - 😄 Pronouns: She/Her<br>
        - ⚡ Fun fact: I spend watching Tv series in my leisure time.<br>
- </b></h3>
+ </b></h4>
 
  <hr>
   <p align="center">
