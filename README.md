@@ -1,6 +1,6 @@
 ###   <h1 align="center">Hi.. I am Chathurangi Wijemanna.👋</h1>                                                      
 <b><h2> About me.......</b></h2>
-https://th.bing.com/th/id/OIP.qn4GeVm325mSFvd-zp4F4AHaHa?pid=ImgDet&rs=1
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.qn4GeVm325mSFvd-zp4F4AHaHa?pid=ImgDet&rs=1">
 <h3><b>
        - 🏫 I am undergraduate student of Computer Science at Nsbm Green University.<br>
        - 🌱 I’m currently learning Html,CSS,Java Script, Java, Web Development. <br>
