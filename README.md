@@ -1,6 +1,6 @@
 ###   <h1 align="center">Hi.. I am Chathurangi Wijemanna.👋</h1>                                                      
 <b><h2> About me.......</b></h2>
-<img align="right" alt="Coding" width="300" src="https://www.bing.com/images/searchview=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b8621d221ed49bf3bf0abcb7e7efee87%3frik%3d%252fVxsz46vZmIy9w%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=+girl+coding+animation+gif+&simid=608020120838671601&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=2&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <hr>
 <h4><b>
        - 🏫 I am undergraduate student of Computer Science at Nsbm Green University.<br>
