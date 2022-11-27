@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <br>
 
-<h4><b>
+<h3><b>
        - 🏫 I am undergraduate student of Computer Science at Nsbm Green University.<br>
        - 🌱 I’m currently learning Html,CSS,Java Script, Java, Web Development. <br>
        - 📫 I'm currently working on my project.<br>
        - 😄 Pronouns: She/Her<br>
        - ⚡ Fun fact: I spend watching Tv series in my leisure time.<br>
- </b></h4>
+ </b></h3>
 <br><br><br>
  <hr>
   <p align="center">
