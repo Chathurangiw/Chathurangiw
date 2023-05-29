@@ -2,7 +2,8 @@
 <head></head> 
 <body>
 <h1 align="center">Hi.. I am Chathurangi Wijemanna.👋</h1>                                                      
-  <b><h2><center>I am Frontend Developer</center>  </b></h2>
+  <h2><b><center>I am Frontend Developer</center></b></h2>
+
 <hr>
 <img align="center" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
