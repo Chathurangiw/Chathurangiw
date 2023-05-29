@@ -2,9 +2,9 @@
 <head></head> 
 <body>
 <h1 align="center">Hi.. I am Chathurangi Wijemanna.👋</h1>                                                      
-<b><h2> About me.......👧</b></h2>
+<b><h2> </b></h2>
 <hr>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <br>
 
 
