@@ -4,12 +4,9 @@
 <h1 align="center">Hi.. I am Chathurangi Wijemanna.👋</h1>                                                      
 <b><h2>I am Frontend Developer  </b></h2>
 <hr>
-<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
-<br>
+<img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
-<br><br><br><br>
- <hr>
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Chathurangiw&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
 <br><br>
