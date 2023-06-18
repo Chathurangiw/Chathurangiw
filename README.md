@@ -1,8 +1,8 @@
 <html> 
 <head></head> 
 <body>
-  <h1><center>Hi.. I am Chathurangi Wijemanna.👋</center></h1>                                                      
-  <h2><b><center>I am Frontend Developer</center></b></h2>
+<h1 align="center">Hi 👋, I'm Chathurangi Wijemanna</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 <hr>
 <img align="center" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
@@ -10,11 +10,9 @@
 <hr>
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Chathurangiw&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
-<br><br>
-</hr>
+
 <hr>
-<h1 align="center">Hi 👋, I'm Chathurangi Wijemanna</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurangiw&label=Profile%20views&color=0e75b6&style=flat" alt="chathurangiw" /> </p>
 
