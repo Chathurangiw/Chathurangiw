@@ -1,7 +1,7 @@
 <html> 
 <head></head> 
 <body>
-<h1 align="center">Hi.. I am Chathurangi Wijemanna.👋</h1>                                                      
+  <h1><center>Hi.. I am Chathurangi Wijemanna.👋</center></h1>                                                      
   <h2><b><center>I am Frontend Developer</center></b></h2>
 
 <hr>
