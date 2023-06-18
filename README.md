@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <hr>
-<img align="left" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
 
 
 
