@@ -8,8 +8,6 @@
 <img align="left" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
-  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Chathurangiw&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
 
 <hr>
 
