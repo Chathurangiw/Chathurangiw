@@ -5,14 +5,13 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <hr>
-
-
-
-
-
-
-
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.b8621d221ed49bf3bf0abcb7e7efee87?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&ehk=1pUq2QV7aTpjkq3DC6ewAWbipixbWFCWbd4Wso5U3WE%3d">
 <hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurangiw&label=Profile%20views&color=0e75b6&style=flat" alt="chathurangiw" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathurangiw" alt="chathurangiw" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chathurangi wijemanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathurangi wijemanna" height="30" width="40" /></a>
@@ -26,10 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathurangiw&show_icons=true&locale=en" alt="chathurangiw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathurangiw&" alt="chathurangiw" /></p>
-
-
-
-
-
-</body>
-</html>
