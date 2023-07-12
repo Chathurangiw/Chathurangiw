@@ -32,7 +32,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chathurangiw&theme=merko&hide_border=true)
 
-###<h3> ✍️ Random Dev Quote</h3>
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
