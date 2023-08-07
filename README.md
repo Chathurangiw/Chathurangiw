@@ -11,11 +11,7 @@
 # 💫 About Me:
 🔭 I’m currently study at NSBM Green University in Sri Lanka.<br>👯 I’m looking to collaborate on any work.<br>🌱 I’m currently learning  flutter <br> 📫 How to reach me **chathurangiw98@gmail.com**
 
-
-
-
-
- <br><br><br><br><br>
+ <br><br>
 
 
 <h3 align="left">Connect with me:</h3>
