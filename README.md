@@ -2,7 +2,7 @@
 <head></head> 
 <body>
 <h1 align="center">Hi 👋, I'm Chathurangi Wijemanna</h1>
-<h3 align="center">A passionate frontend developer</h3><hr>
+<h3 align="center">A passionate frontend developer & Quality Ansurance </h3><hr>
 
 
 <img align="right" alt="coding" width="300" src="https://www.bing.com/th/id/OGC.b8621d221ed49bf3bf0abcb7e7efee87?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&ehk=1pUq2QV7aTpjkq3DC6ewAWbipixbWFCWbd4Wso5U3WE%3d">
@@ -10,13 +10,13 @@
 
 
 
-- 🌱 I’m currently learning **React,Flutter**
+- 🌱 I am currently learning **React,Flutter**
 
 - 📫 How to reach me **chathurangiw98@gmail.com**
 
-- ⚡ Fun fact **I am watching movies in my Leisure time**
+
  <br><br><br><br><br>
- <hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
