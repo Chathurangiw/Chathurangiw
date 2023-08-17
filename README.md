@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="300" src="https://www.bing.com/th/id/OGC.b8621d221ed49bf3bf0abcb7e7efee87?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&ehk=1pUq2QV7aTpjkq3DC6ewAWbipixbWFCWbd4Wso5U3WE%3d">
 
 
- <h3 align="left"># 💫About Me:</h3>
+ <h3 align="left">💫About Me:</h3>
 🔭 I’m currently study at NSBM Green University in Sri Lanka.<br>👯 I’m looking to collaborate on any work.<br>🌱 I’m currently learning  flutter <br> 📫 How to reach me **chathurangiw98@gmail.com**
 
  <br><br>
