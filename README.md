@@ -9,7 +9,7 @@
 
 
  <h3 align="left">💫About Me:</h3>
-🔭 I’m currently study at NSBM Green University in Sri Lanka.<br>👯 I’m looking to collaborate on any work.<br>🌱 I’m currently learning  flutter <br> 📫 How to reach me **chathurangiw98@gmail.com**
+🔭 I’m currently study at NSBM Green University in Sri Lanka.<br>👯 I’m looking to collaborate on any work. <br> 📫 How to reach me **chathurangiw98@gmail.com**
 
  <br><br>
 
