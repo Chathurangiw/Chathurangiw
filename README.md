@@ -124,6 +124,19 @@
 
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
+
+<p align="center">
+    <a href="https://wakatime.com/@Chathurangiw">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chathurangiw&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+
+
+
+<br>
+<br>
+<div align="center">
 # <h3 align="left">📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=Chathurangiw&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chathurangiw&theme=dark&hide_border=false)<br/>
