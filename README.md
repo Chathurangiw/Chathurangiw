@@ -123,7 +123,7 @@
 <br>
 <br>
 
-<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!--<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>-->
 <br>
 
 <p align="center">
@@ -139,7 +139,7 @@
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathurangiw&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)-->
 
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathurangiw&theme=blue-green&hide_border=false)-->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathurangiw&theme=blue-green&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathurangiw&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
