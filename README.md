@@ -61,17 +61,6 @@
 
 <hr/>
 
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathurangiw&theme=blue-green" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathurangiw&layout=compact&theme=blue-green" />
-</p>
-
-<hr/>
 
 <h4 align="center">🚀 Focused on Quality • Driven by Learning • Ready to Grow</h4>
 
