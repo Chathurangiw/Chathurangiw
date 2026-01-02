@@ -6,7 +6,7 @@
 <h3>💫 About Me</h3>
 
 <ul>
-  <li>🎓 BSc (Hons) in Computer Science – <b>Second Class Upper Division (GPA 3.53)</b></li>
+  <li>🎓 BSc (Hons) in Computer Science – <b>Second Class Upper Division </b></li>
   <li>🏫 NSBM Green University, Sri Lanka</li>
   <li>🧪 Interested in <b>Quality Assurance, Manual & API Testing</b></li>
   <li>💻 Experience in Web Development & Agile-based projects</li>
